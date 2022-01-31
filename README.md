@@ -4,7 +4,7 @@
 
 ## Descrição do repositório
 
-Aqui está o conteúdo de estudo produzido à partir do curso de "ciência de dados - do zero ao pro" da escola Mentorama. O programa está dividido em dois cursos, que 
+Aqui está o conteúdo de estudo produzido a partir do curso de "ciência de dados - do zero ao pro" da escola Mentorama. O programa está dividido em dois cursos, que 
 somam mais de 70h de conteúdo e prática treinando em dados reais. Os módulos que estão com um ✔️ são aqueles já estudados e o conteúdo produzido a partir destes estudos
 pode ser visto clicando no item desejado. Os demais itens são conteúdos que ainda não foram concluídos, mas terão seu status atualizado conforme forem estudados. 
 
