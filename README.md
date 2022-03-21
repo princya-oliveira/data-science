@@ -21,7 +21,7 @@ pode ser visto clicando no item desejado. Os demais itens são conteúdos que ai
 ✔️ [módulo 10 – Modelos de classificação](https://github.com/princya-oliveira/data-science/tree/main/modulo_10_modelos_classificacao) <br>
 ✔️ [módulo 11 – Implementando modelos de machine learning do zero](https://github.com/princya-oliveira/data-science/tree/main/modulo_11_implementando_modelos_machine_learning_do_zero) <br>
 ✔️ [módulo 12 – Modelos de árvores e ensembles](https://github.com/princya-oliveira/data-science/tree/main/modulo_12_modelos_arvore_ensembles) <br>
-⏳ módulo 13 – Clusterização<br>
+✔️ [módulo 13 – Clusterização](https://github.com/princya-oliveira/data-science/tree/main/modulo_13_clusterizacao) <br>
 ⏳ módulo 14 – Aplicações: detecção de anomalias<br>
 ⏳ módulo 15 – Aplicações: sistemas de recomendação<br>
 ⏳ módulo 16 – Gerenciamento de projetos de dados<br>
