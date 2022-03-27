@@ -4,16 +4,22 @@
 
 ## Descrição do repositório
 
-Aqui está o conteúdo de estudo produzido a partir do curso de "ciência de dados - do zero ao pro" da escola Mentorama. O programa está dividido em dois cursos, que 
-somam mais de 70h de conteúdo e prática treinando em dados reais. Os módulos que estão com um ✔️ são aqueles já estudados e o conteúdo produzido a partir destes estudos
-pode ser visto clicando no item desejado. Os demais itens são conteúdos que ainda não foram concluídos, mas terão seu status atualizado conforme forem estudados. 
+Aqui está o conteúdo de estudo e pesquisa que estou desenvolvendo no curso/mentoria de "ciência de dados - do zero ao pro" da escola Mentorama. Já foram mais de 88 horas de estudo ativo e estas são as linguagens, bibliotecas e ferramentas que estão sendo usadas (ou serão) neste projeto e o seu conteúdo organizado em módulos: 
+
+#### 🛠 Tecnologias: 
+
+**Python, Pandas, Numpy, Matplotlib, Scipy, Scikit-learn, SQlite, MongoDB, Pyspark, TensorFlow 2.0, Prophet, OpenAI Gym, DataBricks.** 
+
+#### 📚 Conteúdo do Programa:
+<b>legenda:</b> ✔️ módulo concluído (clique para visualizar) | ⏳ módulo a ser concluído
 
 #### cientista de dados do zero
+
 ✔️ [módulo 1 - O mundo de dados](https://github.com/princya-oliveira/data-science/tree/main/modulo_01_dados) <br>
 ✔️ [módulo 2 - Fundamentos básicos de Python 1 ](https://github.com/princya-oliveira/data-science/tree/main/modulo_02_fundamentos_python1) <br>
 ✔️ [módulo 3 - Fundamentos básicos de Python 2](https://github.com/princya-oliveira/data-science/tree/main/modulo_03_fundamentos_python2) <br>
 ✔️ [módulo 4 – Trabalhando com bancos de dados](https://github.com/princya-oliveira/data-science/tree/main/modulo_04_banco_dados) <br>
-✔️ [módulo 5 – Bibliotecas: NumPy e pandas](https://github.com/princya-oliveira/data-science/tree/main/modulo_05_bibliotecas_numpy_pandas) <br>
+✔️ [módulo 5 – Bibliotecas: NumPy e Pandas](https://github.com/princya-oliveira/data-science/tree/main/modulo_05_bibliotecas_numpy_pandas) <br>
 ✔️ [módulo 6 – Análise e visualização de dados](https://github.com/princya-oliveira/data-science/tree/main/modulo_06_analise_visualizacao_dados) <br>
 ✔️ [módulo 7 – Pré-processamento de dados](https://github.com/princya-oliveira/data-science/tree/main/modulo_07_preprocessamento_dados) <br>
 ✔️ [módulo 8 – Fundamentos de machine learning](https://github.com/princya-oliveira/data-science/tree/main/modulo_08_fundamentos_machine_learning) <br>
@@ -38,11 +44,6 @@ pode ser visto clicando no item desejado. Os demais itens são conteúdos que ai
 ⏳ módulo 9 – Redes neurais aplicadas a sistemas de recomendação<br>
 ⏳ módulo 10 – Modelos em produção<br>
 ⏳ módulo 11 – Bônus: introdução a big data com Databricks e PySpark<br>
-
-## 🛠 Tecnologias
-
-As seguintes linguagens, bibliotecas e ferramentas estão sendo usadas neste projeto:
-**Python, Pandas, Numpy, Matplotlib, Scipy, Scikit-learn, SQlite, MongoDB, Pyspark, TensorFlow 2.0, Prophet, OpenAI Gym, DataBricks.** 
 
 <br>
 <br>
