@@ -28,9 +28,9 @@ Aqui está o conteúdo de estudo e pesquisa que estou desenvolvendo no curso/men
 ✔️ [módulo 11 – Implementando modelos de machine learning do zero](https://github.com/princya-oliveira/data-science/tree/main/modulo_11_implementando_modelos_machine_learning_do_zero) <br>
 ✔️ [módulo 12 – Modelos de árvores e ensembles](https://github.com/princya-oliveira/data-science/tree/main/modulo_12_modelos_arvore_ensembles) <br>
 ✔️ [módulo 13 – Clusterização](https://github.com/princya-oliveira/data-science/tree/main/modulo_13_clusterizacao) <br>
-⏳ módulo 14 – Aplicações: detecção de anomalias<br>
-⏳ módulo 15 – Aplicações: sistemas de recomendação<br>
-⏳ módulo 16 – Gerenciamento de projetos de dados<br>
+✔️ [módulo 14 – Aplicações: detecção de anomalias](https://github.com/princya-oliveira/data-science/tree/main/modulo_14_deteccao_anomalias) <br>
+✔️ [módulo 15 – Aplicações: sistemas de recomendação](https://github.com/princya-oliveira/data-science/tree/main/modulo_15_sistemas_recomendacao) <br>
+✔️ [módulo 16 – Gerenciamento de projetos de dados](https://github.com/princya-oliveira/data-science/tree/main/modulo_16_gerenciamento_projetos_dados) <br>
 
 #### cientista de dados PRO
 ⏳ módulo 1 – Importantes tópicos iniciais<br>
