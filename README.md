@@ -33,8 +33,8 @@ Aqui está o conteúdo de estudo e pesquisa que estou desenvolvendo no curso/men
 ✅ [módulo 16 – Gerenciamento de projetos de dados](https://github.com/princya-oliveira/data-science/tree/main/modulo_16_gerenciamento_projetos_dados) <br>
 
 #### cientista de dados PRO
-⏳ módulo 1 – Importantes tópicos iniciais<br>
-⏳ módulo 2 – Introdução às redes neurais I<br>
+✅ [módulo 1 – Importantes tópicos iniciais](https://github.com/princya-oliveira/data-science/tree/main/curso_cientista_dados_avancado/modulo_01_topicos_iniciais) <br>
+✅ [módulo 2 – Introdução às redes neurais I](https://github.com/princya-oliveira/data-science/tree/main/curso_cientista_dados_avancado/modulo_02_intro_redes_neurais) <br>
 ⏳ módulo 3 – Introdução às redes neurais II<br>
 ⏳ módulo 4 – Introdução à visão computacional<br>
 ⏳ módulo 5 – Introdução ao aprendizado de representação e Redes Adversárias Generativas<br>
