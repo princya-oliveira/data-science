@@ -35,7 +35,7 @@ Aqui está o conteúdo de estudo e pesquisa que estou desenvolvendo no curso/men
 #### cientista de dados PRO
 ✅ [módulo 1 – Importantes tópicos iniciais](https://github.com/princya-oliveira/data-science/tree/main/curso_cientista_dados_avancado/modulo_01_topicos_iniciais) <br>
 ✅ [módulo 2 – Introdução às redes neurais I](https://github.com/princya-oliveira/data-science/tree/main/curso_cientista_dados_avancado/modulo_02_intro_redes_neurais) <br>
-⏳ módulo 3 – Introdução às redes neurais II<br>
+✅ [módulo 3 – Introdução às redes neurais II](https://github.com/princya-oliveira/data-science/tree/main/curso_cientista_dados_avancado/modulo_03_redes_neurais_parte_II) <br>
 ⏳ módulo 4 – Introdução à visão computacional<br>
 ⏳ módulo 5 – Introdução ao aprendizado de representação e Redes Adversárias Generativas<br>
 ⏳ módulo 6 – Introdução a séries temporais<br>
