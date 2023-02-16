@@ -4,14 +4,23 @@
 
 ## Descrição do repositório
 
-Aqui está o conteúdo de estudo e pesquisa que estou desenvolvendo no curso/mentoria de "ciência de dados - do zero ao pro" da escola Mentorama. Já foram mais de 88 horas de estudo ativo e estas são as linguagens, bibliotecas e ferramentas que estão sendo usadas (ou serão) neste projeto e o seu conteúdo organizado em módulos: 
+Este repositório contém os projetos e atividades que desenvolvi durante uma trilha de estudos em Ciência de Dados. Essa trilha está dividida em duas partes: Parte Iniciante e Parte PRO, e cada parte contém diversos módulos que abrangem uma ampla gama de tópicos em Ciência de Dados, desde conceitos básicos até técnicas avançadas.
+
+Os módulos da Parte Iniciante incluem o mundo dos dados, fundamentos básicos de Python, trabalhando com bancos de dados, bibliotecas como NumPy e Pandas, análise e visualização de dados, pré-processamento de dados, fundamentos de machine learning, modelos de classificação, implementando modelos de machine learning do zero, modelos de árvores e ensembles, clusterização, detecção de anomalias, sistemas de recomendação e gerenciamento de projetos de dados.
+Já a Parte PRO inclui importantes tópicos iniciais, introdução às redes neurais, visão computacional, aprendizado de representação e redes adversárias generativas, processamento de linguagem natural (NLP), aprendizado por reforço, redes neurais aplicadas a sistemas de recomendação, modelos em produção e uma introdução a big data com Databricks e PySpark.
+
+Cada módulo inclui atividades para avaliação e desenvolvimento de habilidades em Ciência de Dados, e os projetos deste repositório refletem o trabalho que desenvolvi em cada módulo. O repositório está organizado de acordo com a ordem dos módulos e atividades da trilha de aprendizado.
+
+Em resumo, aqui você encontrará projetos em áreas como pré-processamento de dados, análise exploratória, modelagem de machine learning, visão computacional e processamento de linguagem natural, entre outras. Espero que esses projetos possam ser úteis como inspiração e referência para outras pessoas interessadas em Ciência de Dados.
+
+Se você tiver alguma dúvida e/ou comentário sobre meus projetos, sinta-se à vontade para entrar em contato comigo. Espero que você goste tanto quanto eu gostei de desenvolvê-los!!
 
 #### 🛠 Tecnologias: 
 
-**Python, Pandas, Numpy, Matplotlib, Scipy, Scikit-learn, SQlite, MongoDB, Pyspark, TensorFlow 2.0, Prophet, OpenAI Gym, DataBricks.** 
+**Python, Pandas, Numpy, Matplotlib, Scipy, Scikit-learn, SQlite, MongoDB, Pyspark, TensorFlow, Keras, Prophet, OpenAI Gym, DataBricks.** 
 
 #### 📚 Conteúdo do Programa:
-<b>legenda:</b> ✅ módulo concluído (clique para visualizar) | ⏳ módulo a ser concluído
+<b>legenda:</b> ✅ módulo concluído (clique para visualizar) | ⏳ módulo em andamento
 
 #### cientista de dados do zero
 
@@ -49,5 +58,5 @@ Aqui está o conteúdo de estudo e pesquisa que estou desenvolvendo no curso/men
 <br>
 
 <p align="center">👋 Obrigada pela visita e caso queira,
-<a href=https://www.linkedin.com/in/princya-oliveira/>entre em contato!</a>
+<a href=https://www.linkedin.com/in/princya-oliveira/> entre em contato!</a>
 </p>
