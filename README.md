@@ -7,7 +7,7 @@
 Este repositório contém os projetos e atividades que desenvolvi durante uma trilha de estudos em Ciência de Dados. Essa trilha está dividida em duas partes: Parte Iniciante e Parte PRO, e cada parte contém diversos módulos que abrangem uma ampla gama de tópicos em Ciência de Dados, desde conceitos básicos até técnicas avançadas.
 
 Os módulos da Parte Iniciante incluem o mundo dos dados, fundamentos básicos de Python, trabalhando com bancos de dados, bibliotecas como NumPy e Pandas, análise e visualização de dados, pré-processamento de dados, fundamentos de machine learning, modelos de classificação, implementando modelos de machine learning do zero, modelos de árvores e ensembles, clusterização, detecção de anomalias, sistemas de recomendação e gerenciamento de projetos de dados.
-Já a Parte PRO inclui importantes tópicos iniciais, introdução às redes neurais, visão computacional, aprendizado de representação e redes adversárias generativas, processamento de linguagem natural (NLP), aprendizado por reforço, redes neurais aplicadas a sistemas de recomendação, modelos em produção e uma introdução a big data com Databricks e PySpark.
+Já a Parte PRO inclui importantes tópicos iniciais, introdução às redes neurais, visão computacional, processamento de linguagem natural (NLP), aprendizado por reforço, redes neurais aplicadas a sistemas de recomendação, modelos em produção e uma introdução a big data com Databricks e PySpark.
 
 Cada módulo inclui atividades para avaliação e desenvolvimento de habilidades em Ciência de Dados, e os projetos deste repositório refletem o trabalho que desenvolvi em cada módulo. O repositório está organizado de acordo com a ordem dos módulos e atividades da trilha de aprendizado.
 
