@@ -45,7 +45,7 @@ Se você tiver alguma dúvida e/ou comentário sobre meus projetos, sinta-se à 
 ✅ [módulo 1 – Importantes tópicos iniciais](https://github.com/princya-oliveira/data-science/tree/main/curso_cientista_dados_avancado/modulo_01_topicos_iniciais) <br>
 ✅ [módulo 2 – Introdução às redes neurais I](https://github.com/princya-oliveira/data-science/tree/main/curso_cientista_dados_avancado/modulo_02_intro_redes_neurais) <br>
 ✅ [módulo 3 – Introdução às redes neurais II](https://github.com/princya-oliveira/data-science/tree/main/curso_cientista_dados_avancado/modulo_03_redes_neurais_parte_II) <br>
-⏳ módulo 4 – Introdução à visão computacional<br>
+✅ [módulo 4 – Introdução à visão computacional](https://github.com/princya-oliveira/data-science/tree/main/curso_cientista_dados_avancado/modulo_04_visao_computacional) <br>
 ⏳ módulo 5 – Introdução ao aprendizado de representação e Redes Adversárias Generativas<br>
 ⏳ módulo 6 – Introdução a séries temporais<br>
 ⏳ módulo 7 – Introdução ao Processamento de Linguagem Natural (NLP)<br>
