@@ -48,7 +48,7 @@ Se você tiver alguma dúvida e/ou comentário sobre meus projetos, sinta-se à 
 ✅ [módulo 4 – Introdução à visão computacional](https://github.com/princya-oliveira/data-science/tree/main/modulo_20_intro_visao_computacional) <br>
 ✅ [módulo 5 – Introdução ao aprendizado de representação e Redes Adversárias Generativas](https://github.com/princya-oliveira/data-science/tree/main/modulo_21_intro_aprendizado_representacao_redes) <br>
 ✅ [módulo 6 – Introdução a Séries Temporais](https://github.com/princya-oliveira/data-science/tree/main/modulo_22_intro_series_temporais) <br>
-⏳ módulo 7 – Introdução ao Processamento de Linguagem Natural (NLP)<br>
+✅ [módulo 7 – Introdução ao Processamento de Linguagem Natural (NLP)] (https://github.com/princya-oliveira/data-science/tree/main/modulo_23_intro_processamento_linguagem_natural) <br>
 ⏳ módulo 8 – Introdução ao aprendizado por reforço<br>
 ⏳ módulo 9 – Redes neurais aplicadas a sistemas de recomendação<br>
 ⏳ módulo 10 – Modelos em produção<br>
