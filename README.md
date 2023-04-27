@@ -49,10 +49,10 @@ Se você tiver alguma dúvida e/ou comentário sobre meus projetos, sinta-se à 
 ✅ [módulo 5 – Introdução ao aprendizado de representação e Redes Adversárias Generativas](https://github.com/princya-oliveira/data-science/tree/main/modulo_21_intro_aprendizado_representacao_redes) <br>
 ✅ [módulo 6 – Introdução a Séries Temporais](https://github.com/princya-oliveira/data-science/tree/main/modulo_22_intro_series_temporais) <br>
 ✅ [módulo 7 – Introdução ao Processamento de Linguagem Natural (NLP) ](https://github.com/princya-oliveira/data-science/tree/main/modulo_23_intro_processamento_linguagem_natural) <br>
-⏳ módulo 8 – Introdução ao aprendizado por reforço<br>
-⏳ módulo 9 – Redes neurais aplicadas a sistemas de recomendação<br>
-⏳ módulo 10 – Modelos em produção<br>
-⏳ módulo 11 – Bônus: introdução a big data com Databricks e PySpark<br>
+⏳ [módulo 8 – Introdução ao aprendizado por reforço] (https://github.com/princya-oliveira/data-science/tree/main/modulo_24_intro_aprendizado_reforco) <br>
+⏳ [módulo 9 – Redes neurais aplicadas a sistemas de recomendação] (https://github.com/princya-oliveira/data-science/tree/main/modulo_25_sistemas_recomenda%C3%A7%C3%A3o) <br>
+⏳ [módulo 10 – Modelos em produção] (https://github.com/princya-oliveira/data-science/tree/main/modulo_26_modelos_em_producao) <br>
+⏳ [módulo 11 – Bônus: introdução a big data com Databricks e PySpark] (https://github.com/princya-oliveira/data-science/tree/main/modulo_27_extracao_analise_dados_big_data) <br>
 
 <br>
 <br>
